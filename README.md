@@ -1,5 +1,7 @@
 <div align="center">
 
+# 👋
+
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=40&duration=1750&pause=500&color=628FDB&background=1a1b27&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=135&lines=Ol%C3%A1%2C;Bem+vindo!)
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Frodrigoherzog.github.io%2Fportfolio%2F&style=for-the-badge&label=Portfolio&labelColor=2B3752&link=https%3A%2F%2Frodrigoherzog.github.io%2Fportfolio%2F)](https://rodrigoherzog.github.io/portfolio/)
@@ -10,7 +12,7 @@
 
 ---
 
-<p style="font-size:1.75em">Stacks</p>
+# Stacks
 
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -25,8 +27,8 @@
 ![StyledComponents](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
 ---
-
-<p style="font-size:1.75em">Contato</p>
+  
+# Contato
 
 <a href="mailto:rodrigo.h.g.dev@gmail.com">![Static Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&label=rodrigo.h.g.dev%40gmail.com&labelColor=2B3752)
 </a>
